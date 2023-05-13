@@ -1,13 +1,12 @@
-a = int(input("a"))
-n = int(input())
-for n in range(n):
-    a**n = a**n * a**n
-print(c)
+son = float(input("son"))
+daraja = int(input("daraja"))
 
+natija = 1
 
+while daraja != 0:
+    natija = natija*son
+    daraja=daraja-1
 
-
-
-
+print("jaVOB = " + str(natija))
 
 
